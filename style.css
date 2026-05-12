@@ -48,7 +48,7 @@ body {
     font-weight: 700;
 }
 .logo-image {
-    height: 120px;
+    height: 150px;
     width: auto;
     margin-right: 15px;
     vertical-align: middle;
@@ -395,7 +395,7 @@ body {
     }
     
     .logo-image {
-        height: 90px;
+        height: 110px;
     }
 }
 
@@ -422,6 +422,6 @@ body {
     }
     
     .logo-image {
-        height: 70px;
+        height: 90px;
     }
 }
