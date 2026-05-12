@@ -48,7 +48,7 @@ body {
     font-weight: 700;
 }
 .logo-image {
-    height: 50px;
+    height: 80px;
     width: auto;
     margin-right: 15px;
     vertical-align: middle;
@@ -393,6 +393,10 @@ body {
     .logo h1 {
         font-size: 1.2rem;
     }
+    
+    .logo-image {
+        height: 60px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -415,5 +419,9 @@ body {
 
     .nav-links a {
         font-size: 0.9rem;
+    }
+    
+    .logo-image {
+        height: 50px;
     }
 }
